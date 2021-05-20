@@ -1,4 +1,3 @@
-<table style="border:none;">
 <tr>
 <td><img src="https://img.shields.io/badge/Facebook--clone-React%20Ntive-blue" /></td>
 <td>
@@ -7,6 +6,5 @@
 </a>
 </td>
 </tr>
-</table>
 
 ![clone](clone.gif)
