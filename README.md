@@ -1,4 +1,4 @@
-<table>
+<!-- <table>
 <tr>
 <td><img src="https://img.shields.io/badge/Facebook--clone-React%20Ntive-blue" /></td>
 <td>
@@ -7,6 +7,6 @@
 </a>
 </td>
 </tr>
-</table>
+</table> -->
 
 [![Demo Doccou alpha](https://j.gifs.com/XLv12V.gif)](https://www.youtube.com/watch?v=OiMRxVndTeU)
