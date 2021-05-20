@@ -9,4 +9,4 @@
 </tr>
 </table>
 
-![].(https://j.gifs.com/99rGZ4.gif)
+![](https://j.gifs.com/99rGZ4.gif)
