@@ -7,7 +7,6 @@
 </a>
 </td>
 </tr>
-<tr>
-<td><img src="https://j.gifs.com/99rGZ4.gif" /></td>
-</tr>
 </table>
+
+[![Demo Doccou alpha](https://j.gifs.com/XLv12V.gif)](https://www.youtube.com/watch?v=OiMRxVndTeU)
