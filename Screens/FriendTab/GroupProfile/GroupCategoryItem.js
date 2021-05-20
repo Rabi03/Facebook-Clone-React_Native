@@ -1,0 +1,37 @@
+import React from 'react';
+import { Text, StyleSheet, View, Image, TouchableOpacity } from 'react-native';
+
+export default function GroupCategoryItem({ navigation, category }) {
+  return (
+    <TouchableOpacity>
+      <View style={styles.container}>
+        <Image
+          source={{ uri: category.avatar_url }}
+          style={styles.categoryAvatar}
+        ></Image>
+        <Text style={styles.categoryTxt}>{category.name}</Text>
+      </View>
+    </TouchableOpacity>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: {
+    height: 50,
+    alignItems: 'center',
+    paddingHorizontal: 15,
+    flexDirection: 'row',
+  },
+  categoryAvatar: {
+    height: 40,
+    width: 40,
+    borderRadius: 5,
+    borderColor: '#333',
+    borderWidth: 0.3,
+    marginRight: 10,
+  },
+  categoryTxt: {
+    fontSize: 16,
+    fontWeight: '500',
+  },
+});
