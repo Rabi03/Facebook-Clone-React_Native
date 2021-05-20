@@ -24,7 +24,8 @@ git clone https://github.com/Rabi03/Facebook-Clone-React_Native.git
 cd Facebook-Clone-React_Native
 ```
 
-Use the package manager ![](https://img.icons8.com/color/48/000000/npm.png)
+Use the package manager
+![](https://img.icons8.com/color/48/000000/npm.png)
 
 ```bash
 npm install
