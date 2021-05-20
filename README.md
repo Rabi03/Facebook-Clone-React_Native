@@ -13,4 +13,4 @@
 
 # Introduction
 
-![](https://img.shields.io/badge/Facebook%20Clone-1877F2?style=plastic&logo=facebook&logoColor=white) - a project clone Facebook mobile app i am doing while learning react native (IOS-EXPO CLI)
+![](https://img.shields.io/badge/Facebook%20Clone-Android-brightgreen?style=plastic&logo=facebook&logoColor=1877F2) - a clone mobile app of facebook
