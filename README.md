@@ -13,4 +13,4 @@
 
 # Introduction
 
-![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) - a project clone Facebook mobile app i am doing while learning react native (IOS-EXPO CLI)
+![](https://img.shields.io/badge/Facebook %20 Clone?style=plastic&logo=facebook&logoColor=1877F2) - a project clone Facebook mobile app i am doing while learning react native (IOS-EXPO CLI)
