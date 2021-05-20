@@ -10,3 +10,7 @@
 </table>
 
 ![clone](clone.gif)
+
+# Introduction
+
+![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) - a project clone Facebook mobile app i am doing while learning react native (IOS-EXPO CLI)
