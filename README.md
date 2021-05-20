@@ -25,7 +25,7 @@ cd Facebook-Clone-React_Native
 ```
 
 Use the package manager
-![](https://img.icons8.com/color/48/000000/npm.png)
+![](<img src="https://img.icons8.com/color/48/000000/npm.png"/>)
 
 ```bash
 npm install
