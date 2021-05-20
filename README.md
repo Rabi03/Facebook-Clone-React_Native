@@ -7,9 +7,6 @@
 </a>
 </td>
 </tr>
-<tr>
-<td>
-<iframe src='//gifs.com/embed/facebook-clone-99rGZ4' frameborder='0' scrolling='no' width='562px' height='1086px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-</td>
-</tr>
 </table>
+
+![].(https://j.gifs.com/99rGZ4.gif)
